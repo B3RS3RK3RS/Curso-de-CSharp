@@ -1,0 +1,13 @@
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\bin\Debug\netcoreapp3.1\IfElse.exe
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\bin\Debug\netcoreapp3.1\IfElse.deps.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.dev.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\bin\Debug\netcoreapp3.1\IfElse.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\bin\Debug\netcoreapp3.1\IfElse.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\obj\Debug\netcoreapp3.1\IfElse.csprojAssemblyReference.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfo.cs
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\obj\Debug\netcoreapp3.1\IfElse.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\obj\Debug\netcoreapp3.1\IfElse.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\obj\Debug\netcoreapp3.1\IfElse.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\IfElse\obj\Debug\netcoreapp3.1\IfElse.genruntimeconfig.cache
