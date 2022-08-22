@@ -1,0 +1,15 @@
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\bin\Debug\net5.0\Arreglos.exe
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\bin\Debug\net5.0\Arreglos.deps.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\bin\Debug\net5.0\Arreglos.runtimeconfig.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\bin\Debug\net5.0\Arreglos.runtimeconfig.dev.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\bin\Debug\net5.0\Arreglos.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\bin\Debug\net5.0\ref\Arreglos.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\bin\Debug\net5.0\Arreglos.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\obj\Debug\net5.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\obj\Debug\net5.0\Arreglos.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\obj\Debug\net5.0\Arreglos.AssemblyInfo.cs
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\obj\Debug\net5.0\Arreglos.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\obj\Debug\net5.0\Arreglos.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\obj\Debug\net5.0\ref\Arreglos.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\obj\Debug\net5.0\Arreglos.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Arreglos\obj\Debug\net5.0\Arreglos.genruntimeconfig.cache
