@@ -1,0 +1,13 @@
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\bin\Debug\netcoreapp3.1\Tipos de Datos.exe
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\bin\Debug\netcoreapp3.1\Tipos de Datos.deps.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\bin\Debug\netcoreapp3.1\Tipos de Datos.runtimeconfig.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\bin\Debug\netcoreapp3.1\Tipos de Datos.runtimeconfig.dev.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\bin\Debug\netcoreapp3.1\Tipos de Datos.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\bin\Debug\netcoreapp3.1\Tipos de Datos.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\obj\Debug\netcoreapp3.1\Tipos de Datos.csprojAssemblyReference.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\obj\Debug\netcoreapp3.1\Tipos de Datos.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\obj\Debug\netcoreapp3.1\Tipos de Datos.AssemblyInfo.cs
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\obj\Debug\netcoreapp3.1\Tipos de Datos.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\obj\Debug\netcoreapp3.1\Tipos de Datos.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\obj\Debug\netcoreapp3.1\Tipos de Datos.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\Tipos de Datos\obj\Debug\netcoreapp3.1\Tipos de Datos.genruntimeconfig.cache
