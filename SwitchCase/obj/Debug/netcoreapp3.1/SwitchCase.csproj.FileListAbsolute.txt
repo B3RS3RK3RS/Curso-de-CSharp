@@ -1,0 +1,13 @@
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csprojAssemblyReference.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
