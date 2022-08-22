@@ -1,0 +1,12 @@
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\bin\Debug\netcoreapp3.1\For.exe
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\bin\Debug\netcoreapp3.1\For.deps.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\bin\Debug\netcoreapp3.1\For.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\bin\Debug\netcoreapp3.1\For.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\obj\Debug\netcoreapp3.1\For.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\obj\Debug\netcoreapp3.1\For.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\obj\Debug\netcoreapp3.1\For.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\For\obj\Debug\netcoreapp3.1\For.genruntimeconfig.cache
