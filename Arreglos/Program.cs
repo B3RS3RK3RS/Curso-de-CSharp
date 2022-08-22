@@ -22,8 +22,6 @@ namespace Arreglos
 
             friends[6] = "Jose";
             Console.WriteLine(friends[6]);
-
-            friends[7] = "Fuerita de rango";
         }
     }
 }

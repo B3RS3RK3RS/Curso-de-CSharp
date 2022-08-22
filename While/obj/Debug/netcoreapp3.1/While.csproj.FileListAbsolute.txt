@@ -1,0 +1,12 @@
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\bin\Debug\netcoreapp3.1\While.exe
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\bin\Debug\netcoreapp3.1\While.deps.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\bin\Debug\netcoreapp3.1\While.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\bin\Debug\netcoreapp3.1\While.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\obj\Debug\netcoreapp3.1\While.dll
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\obj\Debug\netcoreapp3.1\While.pdb
+D:\Archivos\Cursos\Udemy\C#\Variables\Variables\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache
