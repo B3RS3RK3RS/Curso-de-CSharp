@@ -1,0 +1,6 @@
+C:\PERSONAL\Git\Curso-de-CSharp\Version 2013\POO\Clases y Objetos\Clases y Objetos\bin\Debug\Clases y Objetos.exe.config
+C:\PERSONAL\Git\Curso-de-CSharp\Version 2013\POO\Clases y Objetos\Clases y Objetos\obj\Debug\Clases y Objetos.csprojResolveAssemblyReference.cache
+C:\PERSONAL\Git\Curso-de-CSharp\Version 2013\POO\Clases y Objetos\Clases y Objetos\bin\Debug\Clases y Objetos.exe
+C:\PERSONAL\Git\Curso-de-CSharp\Version 2013\POO\Clases y Objetos\Clases y Objetos\bin\Debug\Clases y Objetos.pdb
+C:\PERSONAL\Git\Curso-de-CSharp\Version 2013\POO\Clases y Objetos\Clases y Objetos\obj\Debug\Clases y Objetos.exe
+C:\PERSONAL\Git\Curso-de-CSharp\Version 2013\POO\Clases y Objetos\Clases y Objetos\obj\Debug\Clases y Objetos.pdb
